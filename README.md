@@ -2,7 +2,7 @@
 
 ![Espresso Network](https://img.shields.io/badge/Espresso-Network-blue)
 ![Arbitrum Nitro](https://img.shields.io/badge/Arbitrum-Nitro-purple)
-![Chain ID](https://img.shields.io/badge/Chain_ID-898989-orange)
+![Chain ID](https://img.shields.io/badge/Chain_ID-313131-orange)
 
 ## Overview
 
@@ -18,9 +18,9 @@ This project demonstrates a fully functional rollup deployment integrated with E
 
 ## Deployment Information
 
-**CreateRollup Transaction Hash**: `0xf33d16d9449ab9624d3727726afe9f37414381cabf00fe3836101b3f3de6f176`  
-**Cloud Server IP Address**: `3.27.107.202`  
-**Chain ID / Namespace**: `898989`
+**CreateRollup Transaction Hash**: `0x0c26a5c06dfc7e0bd9f6c4b52aaa0d4c1074c09f7a5f66aaaff5422d017fefd0`  
+**Cloud Server IP Address**: `3.26.158.156`  
+**Chain ID / Namespace**: `313131`
 
 ## Technical Architecture
 
